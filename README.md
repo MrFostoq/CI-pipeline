@@ -1,8 +1,16 @@
-# fostoq-scripts
-This repo was provided by Abd Al-Rahman Monther
+# CI/CD Pipeline with Jenkins
 
-It is intended for uploading scripts that aim to download and install servers.
+This repository contains the source code and configuration for a CI/CD pipeline built using Jenkins.
 
-It is open source, you can upload any script 
+## 📦 Project Overview
 
-You can upload any script that achieves the same purpose.
+This project demonstrates the setup of a continuous integration and delivery (CI) pipeline using Jenkins. It automates the process of building, testing, and deploying a sample application.
+
+## 🛠️ Technologies Used
+
+- **Jenkins** – Automation server for CI/CD
+- **Git** – Source code management
+- **Pipeline as Code** – Jenkinsfile
+- **Shell Scripts** – Build and deployment tasks
+
+
